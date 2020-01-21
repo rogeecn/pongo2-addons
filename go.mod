@@ -1,4 +1,4 @@
-module pongo2addons
+module github.com/rogeecn/pongo2-addons
 
 go 1.13
 
